@@ -7,10 +7,14 @@ categories: tech update
 This is my first post on my very own website. Exciting!
 
 Story so far:
+
   - Bought a domain name on [Namespace][namespace-home]
+
   - Hosted a [Sinatra][sinatra-home] app on [Heroku][heroku-home]
-  - Moved the web page to [GitHub Pages][github-pages], built with [Jekyll][jekyll-home]
-  - Added blogs feature.
+
+  - Moved the web page to [GitHub Pages][github-pages], built with [Jekyll][jekyll-home]  
+
+  - Added blogs feature
 
 
 Will be right back with detailed blog.
