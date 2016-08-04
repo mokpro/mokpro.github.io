@@ -126,6 +126,10 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-github-metadata
+  jekyll-mentions
+  jekyll-seo-tag
+  jekyll-sitemap
   minima
 
 RUBY VERSION
