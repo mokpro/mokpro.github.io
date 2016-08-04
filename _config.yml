@@ -11,9 +11,17 @@ email: pranav@moktali.io
 description: Eat. Code. Bike.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pranav.moktali.io" # the base hostname & protocol for your site
-twitter_username: mokpro
-github_username:  mokpro
+twitter:
+  username: mokpro
+github:
+  username:  mokpro
 
 # Build settings
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-mentions
+  - jekyll-github-metadata
