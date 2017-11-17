@@ -25,3 +25,5 @@ gems:
   - jekyll-seo-tag
   - jekyll-mentions
   - jekyll-github-metadata
+
+theme: jekyll-theme-leap-day
