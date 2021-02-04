@@ -1,12 +1,12 @@
 ---
 title: Rich Text Editor via jekyll-admin
 layout: post
-date: '2021-02-04 00:30:00'
+date: '2021-02-04 00:30:00 -0600'
+categories:
+- tech
 tags:
 - jekyll
 - text-editor
-categories:
-- tech
 ---
 
 Being a developer, one can get accostomed to writing in markdown or using HTML tags. However, I feel that markdown is not needed when one has a rich text editor. Let's see how [jekyll-admin](https://github.com/jekyll/jekyll-admin) can help with that.

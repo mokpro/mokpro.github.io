@@ -5,7 +5,6 @@ date: '2021-02-03 11:40:19 -0600'
 categories:
 - tech
 tags:
-- tech
 - jekyll
 - github-pages
 ---

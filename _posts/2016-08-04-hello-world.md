@@ -5,7 +5,7 @@ date: '2016-08-04 11:40:19 -0400'
 categories:
 - tech
 tags:
-- tech
+- github-pages
 ---
 
 This is my first post on my very own website. Exciting!
