@@ -6,7 +6,7 @@ categories:
 - tech
 tags:
 - tech
-- jakyll
+- jekyll
 - github-pages
 ---
 
@@ -28,7 +28,7 @@ So, here it is, the first article after a long time!
     $ git clone git@github.com:mokpro/mokpro.github.io.git
     ```
 
-1. Follow the [Jakyll Instructions](https://jekyllrb.com/docs/#instructions) to create a new blog
+1. Follow the [Jekyll Instructions](https://jekyllrb.com/docs/#instructions) to create a new blog
   
     - Install the jekyll and bundler gems
     
@@ -63,7 +63,7 @@ So, here it is, the first article after a long time!
 1. Commit changes and push to a new branch
 
     ```bash
-    $ git commit -m 'upgrade jakyll'
+    $ git commit -m 'upgrade jekyll'
     $ git push origin HEAD
     ```
 
