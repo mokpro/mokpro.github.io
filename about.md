@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Wait for it...
+Hi there! I'm Pranav Moktali, a Software Engineer. I Eat. Code. Bike.
+
+I'll add more about me soon! 
