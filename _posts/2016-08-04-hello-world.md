@@ -1,13 +1,9 @@
 ---
-title: Hello, World!
 layout: post
-date: '2016-08-04 11:40:19 -0400'
-categories:
-- tech
-tags:
-- github-pages
+title:  "Hello, World!"
+date:   2016-08-04 11:40:19 -0400
+categories: tech
 ---
-
 This is my first post on my very own website. Exciting!
 
 Story so far:
