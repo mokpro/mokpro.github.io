@@ -1,9 +1,12 @@
 ---
+title: Upgrading Github Pages Site
 layout: post
-title:  "Upgrading Github Pages Site"
-date:   2021-02-03 11:40:19 -0600
-categories: tech
-tags: tech jakyll github-pages
+date: '2021-02-03 11:40:19 -0600'
+categories:
+- tech
+tags:
+- jekyll
+- github-pages
 ---
 
 On a whim, I created [this website](https://pranav.moktali.io) over 4 years ago.  I'm glad I did create it. In last 5 years, I've learnt so much on Ruby, Rails, JavaScript, Golang. I want to share what I have learnt. One might think that - how nice, Pranav's sharing. But this is for my own sake. The more I write, the more I can recollect and formalize the knowladge.
@@ -24,7 +27,7 @@ So, here it is, the first article after a long time!
     $ git clone git@github.com:mokpro/mokpro.github.io.git
     ```
 
-1. Follow the [Jakyll Instructions](https://jekyllrb.com/docs/#instructions) to create a new blog
+1. Follow the [Jekyll Instructions](https://jekyllrb.com/docs/#instructions) to create a new blog
   
     - Install the jekyll and bundler gems
     
@@ -59,7 +62,7 @@ So, here it is, the first article after a long time!
 1. Commit changes and push to a new branch
 
     ```bash
-    $ git commit -m 'upgrade jakyll'
+    $ git commit -m 'upgrade jekyll'
     $ git push origin HEAD
     ```
 
