@@ -1,9 +1,13 @@
 ---
+title: Upgrading Github Pages Site
 layout: post
-title:  "Upgrading Github Pages Site"
-date:   2021-02-03 11:40:19 -0600
-categories: tech
-tags: tech jakyll github-pages
+date: '2021-02-03 11:40:19 -0600'
+categories:
+- tech
+tags:
+- tech
+- jakyll
+- github-pages
 ---
 
 On a whim, I created [this website](https://pranav.moktali.io) over 4 years ago.  I'm glad I did create it. In last 5 years, I've learnt so much on Ruby, Rails, JavaScript, Golang. I want to share what I have learnt. One might think that - how nice, Pranav's sharing. But this is for my own sake. The more I write, the more I can recollect and formalize the knowladge.

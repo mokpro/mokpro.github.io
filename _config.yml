@@ -7,8 +7,8 @@ url: "https://pranav.moktali.io" # the base hostname & protocol for your site, e
 
 # Build settings
 theme: minima
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-admin
 
 # Exclude from processing.
 # The following items will not be processed, by default.
